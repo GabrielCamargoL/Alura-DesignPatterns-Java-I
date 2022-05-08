@@ -1,6 +1,5 @@
-<div align="center">
- <H1> Design Patterns em Java I</H1>
-</div>
+
+## Design Patterns em Java I
 
 Neste Repositório, será incluído os seguintes padrões comportamentais:
 
